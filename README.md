@@ -58,7 +58,7 @@ AutoRepuestos
 - **POST** `/api/VentaItem` → Crea un detalle de venta
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-## 6️⃣ Configuración de la base de datos
+##  Configuración de la base de datos
 
 ```markdown
 ## Configuración de la base de datos
@@ -74,7 +74,7 @@ Migraciones:
 --Update-Database
 ----------------------------------
 ---------------------------------
-## 8️⃣ Notas finales / Observaciones
+## Notas finales / Observaciones
 ## Observaciones
 
 - Implementa Clean Architecture con separación de capas: Domain, Application, Infrastructure, WebApi.
