@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\webapi\\controllers\\ventaitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\ventaitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\webapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\infraestructure\\repositories\\ventarepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\ventarepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\infraestructure\\repositories\\productorepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\productorepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\infraestructure\\repositories\\clienterepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\clienterepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\domain\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\usecases\\crearventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\usecases\\crearproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\usecases\\crearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\dtos\\ventadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\ventadtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\dtos\\ventaitemdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\ventaitemdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\domain\\entities\\ventaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\ventaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\infraestructure\\migrations\\20260103042244_inicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\migrations\\20260103042244_inicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\dtos\\clientedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\clientedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\dtos\\productodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\dtos\\productodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F857DCBA-6596-4A8E-A8C6-E167D85743B0}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\infraestructure\\migrations\\20260103041621_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\migrations\\20260103041621_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\infraestructure\\repositories\\ventaitemrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6746BA7B-391F-42A4-BEE5-10D9E27F27B9}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\repositories\\ventaitemrepositorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\aplication\\usecases\\crearventaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E102B807-9040-4DB6-8E57-5FB22A6251FE}|Aplication\\Aplication.csproj|solutionrelative:aplication\\usecases\\crearventaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\domain\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\domain\\interfaces\\iventaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iventaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\area3\\autorepuestos\\autorepuestos\\domain\\interfaces\\iventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB37DBA-C952-495D-A046-C19A41F563C5}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Controllers\\VentaItemController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\VentaItemController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Controllers\\VentaItemController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\VentaItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:20:18.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Repositories\\ProductoRepositorie.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\ProductoRepositorie.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Repositories\\ProductoRepositorie.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\ProductoRepositorie.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:49:31.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Repositories\\VentaRepositorie.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\VentaRepositorie.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Repositories\\VentaRepositorie.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\VentaRepositorie.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:49:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:56:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:59:55.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:03:32.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Repositories\\ClienteRepositorie.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\ClienteRepositorie.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Repositories\\ClienteRepositorie.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\ClienteRepositorie.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:49:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:01:55.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Interfaces\\ICliente.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Interfaces\\ICliente.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:07:20.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrearVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\UseCases\\CrearVenta.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearVenta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\UseCases\\CrearVenta.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\CrearVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:44:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrearProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\UseCases\\CrearProducto.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\UseCases\\CrearProducto.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\CrearProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:44:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrearCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\UseCases\\CrearCliente.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearCliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\UseCases\\CrearCliente.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\CrearCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:44:22.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Aplication\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Aplication\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:43:03.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VentaDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\DTOs\\VentaDTOs.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\VentaDTOs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\DTOs\\VentaDTOs.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\VentaDTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:38:34.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VentaItemDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\DTOs\\VentaItemDTOs.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\VentaItemDTOs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\DTOs\\VentaItemDTOs.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\VentaItemDTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:39:08.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VentaItem.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Entities\\VentaItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\VentaItem.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Entities\\VentaItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\VentaItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:02:05.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Venta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Entities\\Venta.cs",
+              "RelativeToolTip": "Domain\\Entities\\Venta.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:01:54.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260103042244_inicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Migrations\\20260103042244_inicio1.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20260103042244_inicio1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Migrations\\20260103042244_inicio1.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20260103042244_inicio1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:22:44.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\DTOs\\ClienteDTOs.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\ClienteDTOs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\DTOs\\ClienteDTOs.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\ClienteDTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:36:17.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductoDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\DTOs\\ProductoDTOs.cs",
+              "RelativeDocumentMoniker": "Aplication\\DTOs\\ProductoDTOs.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\DTOs\\ProductoDTOs.cs",
+              "RelativeToolTip": "Aplication\\DTOs\\ProductoDTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:37:51.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "Domain\\Entities\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:11:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Domain\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:01:15.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T04:03:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:48:07.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260103041621_inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Migrations\\20260103041621_inicio.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Migrations\\20260103041621_inicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Migrations\\20260103041621_inicio.cs",
+              "RelativeToolTip": "Infraestructure\\Migrations\\20260103041621_inicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:16:22.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VentaItemRepositorie.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Repositories\\VentaItemRepositorie.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Repositories\\VentaItemRepositorie.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Infraestructure\\Repositories\\VentaItemRepositorie.cs",
+              "RelativeToolTip": "Infraestructure\\Repositories\\VentaItemRepositorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:49:45.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CrearVentaItem.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\UseCases\\CrearVentaItem.cs",
+              "RelativeDocumentMoniker": "Aplication\\UseCases\\CrearVentaItem.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Aplication\\UseCases\\CrearVentaItem.cs",
+              "RelativeToolTip": "Aplication\\UseCases\\CrearVentaItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:44:57.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Interfaces\\IProducto.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Interfaces\\IProducto.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:08:11.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IVentaItem.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Interfaces\\IVentaItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IVentaItem.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Interfaces\\IVentaItem.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IVentaItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:08:47.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Interfaces\\IVenta.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IVenta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Area3\\AutoRepuestos\\AutoRepuestos\\Domain\\Interfaces\\IVenta.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T03:08:28.466Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\bin\Debug\net8.0\Aplication.deps.json
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\bin\Debug\net8.0\Aplication.dll
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\bin\Debug\net8.0\Aplication.pdb
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\bin\Debug\net8.0\Domain.dll
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\bin\Debug\net8.0\Domain.pdb
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\Aplication.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\Aplication.csproj.Up2Date
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\Aplication.dll
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\refint\Aplication.dll
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\Aplication.pdb
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Aplication\obj\Debug\net8.0\ref\Aplication.dll
