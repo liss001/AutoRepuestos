@@ -23,7 +23,7 @@ namespace Aplication.UseCases
 
             decimal total = 0;
 
-            // 1️⃣ Verificar stock y descontar
+            // Verificar stock y descontar
             foreach (var item in venta.VentaItems)
             {
                 var producto = await _producto.ObtenerId(item.ProductoId);

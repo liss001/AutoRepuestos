@@ -15,3 +15,4 @@ C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Infraestructure\obj\D
 C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
 C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Infraestructure\obj\Debug\net8.0\Infraestructure.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\Infraestructure\obj\Debug\net8.0\Infraestructure.sourcelink.json

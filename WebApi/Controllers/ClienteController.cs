@@ -36,13 +36,14 @@ namespace WebApi.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(Guid id)
         {
-            var clienteEntity = await cliente.ObtenerId(id);
+            var clienteEntity = await cliente.ObtenerId(id); 
             if (clienteEntity == null)
                 return NotFound("Cliente no encontrado");
 
             var clienteDto = _mapper.Map<ClienteDTOs>(clienteEntity);
             return Ok(clienteDto);
         }
+
 
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] ClienteDTOs clienteDTO)

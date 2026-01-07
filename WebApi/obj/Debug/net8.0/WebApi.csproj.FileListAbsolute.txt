@@ -150,3 +150,4 @@ C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\WebApi\bin\Debug\net8
 C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\WebApi\bin\Debug\net8.0\Aplication.pdb
 C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\WebApi\bin\Debug\net8.0\Domain.pdb
 C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\WebApi\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\Usuario\Desktop\Area3\AutoRepuestos\AutoRepuestos\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
